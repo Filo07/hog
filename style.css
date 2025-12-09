@@ -91,6 +91,11 @@ main section {
     gap: 1rem;
     font-size: 1.1rem;                
 }
+main section a{
+    font-family: "Rye", serif;
+    color: #f9a3a3;
+    text-decoration: none;
+}
 
 main img {
     max-height: 60vh;               

@@ -59,7 +59,7 @@
         <section>
             <h1>Ansök nu</h1>
             <p>Om du känner ett märkligt sug efter motorcyklar, vildsvinskött och en vag vilja att lyda John Porks osagda regler… då är du redan halvt medlem.</p>
-            <p>→ Gå med i WILD HOGS idag. John Pork väntar. Eller ja… han kanske ringer.</p>
+            <a href="kontakt.php">→ Gå med i WILD HOGS idag. John Pork väntar. Eller ja… han kanske ringer.</a>
         </section>
     </main>
     <footer>
